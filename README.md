@@ -2,6 +2,7 @@ Hi, I'm Thanmaya 👋
 
 🎓 Information Science Engineering Student
 💻 Aspiring Software Developer
+🌱 Passionate about Web Development and Artificial Intelligence
 
 Skills
 
