@@ -1,4 +1,4 @@
-Hi, I'm Thanmaya 👋
+Hi, I'm Thanmaya D👋
 
 🎓 Information Science Engineering Student
 💻 Aspiring Software Developer
